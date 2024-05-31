@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl" : "mongodb+srv://azatabdykalli:iP0uClfGley9VyMH@step-cargo.jl555mh.mongodb.net/?retryWrites=true&w=majority&appName=step-cargo",
+    "secretKey" : "mern-secret-key"
+}
